@@ -35,6 +35,13 @@ p {
   padding: 7px;
 }
 
+.project_img_static {
+  background: #D0D0D0;
+  border: 1px solid #b9b9b9;
+  padding: 7px;
+  margin-top: .5rem;
+}
+
 #face {
   background: #0BB6FF url('../img/lee_8bit_head_square.png') center 0px no-repeat;
   background-size: 90px 90px;
