@@ -78,7 +78,7 @@ p {
 .btnProject {
   background-color: #A8E5FF !important;
   color: white;
-  /*border: 2px solid #004969;*/
+  border: 2px solid #A8E5FF;
   font-family: 'League Gothic', 'Lato', Helvetica, sans-serif;
   font-size: 1.5rem;
   letter-spacing: 1.5px;
