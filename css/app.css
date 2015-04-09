@@ -9,8 +9,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-  /*font-family: 'Gentium Book Basic', serif;*/
   font-family: 'Lato';
+}
+
+.contact_icons a {
+  font-size: 5rem;
+  color:  #0BB6FF;
+}
+
+.contact_icons {
+  margin-top: 20%;
 }
 
 .name_small h3{
@@ -47,8 +55,6 @@ p {
 
 #dev a {
   color: white;
-  /*font-family: 'lato-light';
-  font-size: 1.3rem;*/
 }
 
 /*layout style*/
