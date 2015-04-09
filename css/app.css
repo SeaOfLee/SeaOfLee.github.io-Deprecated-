@@ -13,7 +13,7 @@ p {
 }
 
 .contact_icons a {
-  font-size: 5rem;
+  font-size: 6rem;
   color:  #0BB6FF;
 }
 
@@ -44,17 +44,18 @@ p {
   width: 105px;
   padding: 10px;
   position: relative;
-  left: 6em;
+  left: 3em;
   top: -10px;
   z-index: 3;
 }
 
 .top-bar-section .left {
-  margin-left: 100px;
+  margin-left: 3rem;
 }
 
 #dev a {
   color: white;
+  padding-left: 0px;
 }
 
 .aboutPhoto img {
