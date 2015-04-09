@@ -1,16 +1,16 @@
 // adds animation to project images when moused over
-// $(function() {
-// $('.project_img')
-//   .on('mouseenter',
-//     function() {
-//       $(this).addClass('animated bounce');
-//     })
+$(function() {
+$('.project_img')
+  .on('mouseenter',
+    function() {
+      $(this).css('background', '#D0D0D0');
+    })
 
-//   .on('mouseleave',
-//     function() {
-//       $(this).removeClass('animated bounce');
-//     });
-// });
+  .on('mouseleave',
+    function() {
+      $(this).css('background', '#A8A8A8');
+    });
+});
 
 $(function() {
 $('#offerup')
