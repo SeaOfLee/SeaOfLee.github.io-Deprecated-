@@ -55,11 +55,11 @@ $(function() {
 $('#ttt')
   .on('mouseenter',
     function() {
-      $(this).attr('src', 'img/project_ttt.jpg');
+      $(this).attr('src', 'img/project_TTT.jpg');
     })
 
   .on('mouseleave',
     function() {
-      $(this).attr('src', 'img/project_ttt_gray.jpg');
+      $(this).attr('src', 'img/project_TTT_gray.jpg');
     });
 });
