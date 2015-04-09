@@ -1,4 +1,4 @@
-// adds animation to project images when moused over
+// changes background color/border to project images when moused over
 $(function() {
 $('.project_img')
   .on('mouseenter',

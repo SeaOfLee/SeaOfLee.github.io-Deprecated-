@@ -57,6 +57,11 @@ p {
   color: white;
 }
 
+.aboutPhoto img {
+  margin-top: 1rem;
+  border: solid 7px #D0D0D0;
+}
+
 /*layout style*/
 .name_small {
 margin-top: .55rem;
