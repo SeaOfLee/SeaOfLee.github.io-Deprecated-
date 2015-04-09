@@ -74,6 +74,24 @@ p {
   border: solid 7px #D0D0D0;
 }
 
+/*button style*/
+.btnProject {
+  background-color: #A8E5FF !important;
+  color: white;
+  /*border: 2px solid #004969;*/
+  font-family: 'League Gothic', 'Lato', Helvetica, sans-serif;
+  font-size: 1.5rem;
+  letter-spacing: 1.5px;
+}
+
+.btnProject:hover {
+  background-color: white !important;
+  color: #A8E5FF;
+  border: 2px solid #A8E5FF;
+  font-family: 'League Gothic', 'Lato', Helvetica, sans-serif;
+  font-size: 1.5rem;
+}
+
 /*layout style*/
 .name_small {
 margin-top: .55rem;
