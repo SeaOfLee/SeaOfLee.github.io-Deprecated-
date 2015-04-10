@@ -64,9 +64,13 @@ p {
   margin-left: 3rem;
 }
 
-#dev a {
+#dev {
   color: white;
   padding-left: 0px;
+  font-family: 'League Gothic', Helvetica, sans-serif;
+  font-size: 1.75rem;
+  letter-spacing: 1px;
+  line-height: 3.8125rem;
 }
 
 .aboutPhoto img {
